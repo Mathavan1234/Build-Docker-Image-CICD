@@ -50,8 +50,8 @@ This project demonstrates a complete CI/CD pipeline using **AWS CodeBuild**, **T
    - Defines the application image.
 
 3. **Shell Scripts**
-   - `build.sh`: Builds the Docker image.
-   - `push.sh`: Pushes the image to Docker Hub.
+   - `build-image.sh`: Builds the Docker image.
+   - `push-image.sh`: Pushes the image to Docker Hub.
 
 4. **Buildspec**
    - `buildspec.yml`: Executes Docker commands via CodeBuild.
