@@ -4,7 +4,7 @@ This project demonstrates a complete CI/CD pipeline using **AWS CodeBuild**, **T
 
 Building and pushing a **Docker image** to **Docker Hub** using CodeBuild.
 
-## 🐳 Section 2: Build & Push Docker Image to Docker Hub
+## 🐳 Build & Push Docker Image to Docker Hub
 
 ### Overview
 - Create and push Docker images automatically via CodeBuild.
